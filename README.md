@@ -25,7 +25,7 @@ Dự án này mang tên **Vietnamese Poi** cũng là dự án thực tập tốt
 
 Chúng tôi cũng cung cấp sẵn các bộ dữ liệu cho mọi người. Bao gồm:
 
-- [450K data](#data-release) địa điểm nổi bật ở Việt Nam (cập nhật mới nhất vào tháng **7/2023**)
-- [450K data](#data-release) địa điểm như trên nhưng bao gồm chấm điểm và xếp hàng, nhằm mục đích tham khảo, hoặc dùng lại cho các ứng dụng của các bạn (cập nhật mới nhất vào tháng **7/2023**)
+- Hơn [450K data](#data-release) địa điểm nổi bật ở Việt Nam (cập nhật mới nhất vào tháng **7/2023**)
+- Hơn [450K data](#data-release) địa điểm như trên nhưng bao gồm chấm điểm và xếp hàng, nhằm mục đích tham khảo, hoặc dùng lại cho các ứng dụng của các bạn (cập nhật mới nhất vào tháng **7/2023**)
 
 Chúng tôi cũng cung cấp các công thức tính điểm xếp hạng.
