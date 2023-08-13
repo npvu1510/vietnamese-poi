@@ -9,7 +9,7 @@ Dự án này mang tên **Vietnamese Poi** cũng là dự án thực tập tốt
 # Vietnamese Poi: Dữ liệu các địa điểm đáng chú ý ở Việt Nam
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
-[![dataset 450000+](https://img.shields.io/badge/dataset-450,000+-green)](https://docs.google.com/forms/d/e/1FAIpQLSdecwG9Ug0TYgt2UF9_SiGTo4KfqK02L8-KquwvmrP3Fp_bdQ)
+[![dataset 450000+](https://img.shields.io/badge/dataset-450,000+-green)](https://docs.google.com/forms/d/e/1FAIpQLSdecwG9Ug0TYgt2UF9_SiGTo4KfqK02L8-KquwvmrP3Fp_bdQ/viewform)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/)
 [![Made with Tableau](https://img.shields.io/badge/Made_with-Tableau-blue)](https://www.tableau.com/)
 
