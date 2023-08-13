@@ -10,7 +10,7 @@ Dự án này mang tên **Vietnamese Poi** cũng là dự án thực tập tốt
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Code style: black](https://img.shields.io/badge/Made_with-Tableau-blue)](https://github.com/psf/black)
 
 **Note:** Nhóm thật sự cám ơn mọi người đã dành thời gian ghé vào repo này của nhóm. Thật mong chờ các phản hồi của mọi người và vui vẻ tiếp nhận nó !
 
